@@ -11,7 +11,7 @@ import pandas as pd
 # --- parametry (ZAMROZONE 2026-09-05) ---
 RISK_USD    = 30.0
 RR_RATIO    = 2.5
-SPREAD_COST = 3.0
+SPREAD_COST = 0.25
 LOOKBACK    = 20
 FIB_MIN     = 0.382
 FIB_MAX     = 0.650
