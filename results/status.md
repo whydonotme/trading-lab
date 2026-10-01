@@ -1,17 +1,17 @@
-# Status na 2026-09-30
+# Status na 2026-10-01
 
 Prog oplacalnosci: **28.8%** | wygrana +$75 / przegrana $-30
 
 | Okres | Trejdy | Win rate | PF | Netto | z vs prog |
 |---|---|---|---|---|---|
 | Historia (do startu) | 169 | 37.9% | 1.51 | $+1,608 | 2.60 |
-| **FORWARD** (25 dni) | 5 | 20.0% | 0.62 | $-46 | -0.43 |
+| **FORWARD** (26 dni) | 6 | 16.7% | 0.49 | $-76 | -0.66 |
 
 Max obsuniecie (cala historia): 6.7%
 
 ## Otwarte pozycje
-- Nasdaq 100: LONG od 2026-09-30 09:30:00-04:00, wejscie 743.21, SL 736.66, TP 759.6
+- brak
 
 ## Werdykt
 
-ZBIERANIE DANYCH: 5/100 trejdow. Za wczesnie na jakikolwiek wniosek.
+ZBIERANIE DANYCH: 6/100 trejdow. Za wczesnie na jakikolwiek wniosek.
