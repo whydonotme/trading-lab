@@ -1,17 +1,17 @@
-# Status na 2026-10-09
+# Status na 2026-10-10
 
 Prog oplacalnosci: **28.8%** | wygrana +$75 / przegrana $-30
 
 | Okres | Trejdy | Win rate | PF | Netto | z vs prog |
 |---|---|---|---|---|---|
-| Historia (do startu) | 162 | 38.9% | 1.57 | $+1,714 | 2.83 |
-| **FORWARD** (34 dni) | 6 | 16.7% | 0.49 | $-76 | -0.66 |
+| Historia (do startu) | 162 | 37.7% | 1.49 | $+1,504 | 2.49 |
+| **FORWARD** (35 dni) | 7 | 14.3% | 0.41 | $-107 | -0.85 |
 
-Max obsuniecie (cala historia): 6.7%
+Max obsuniecie (cala historia): 7.5%
 
 ## Otwarte pozycje
-- Zloto (XAU): SHORT od 2026-10-08 10:30:00-04:00, wejscie 377.16, SL 381.16, TP 367.17
+- Nasdaq 100: LONG od 2026-10-09 13:30:00-04:00, wejscie 751.26, SL 746.93, TP 762.07
 
 ## Werdykt
 
-ZBIERANIE DANYCH: 6/100 trejdow. Za wczesnie na jakikolwiek wniosek.
+ZBIERANIE DANYCH: 7/100 trejdow. Za wczesnie na jakikolwiek wniosek.
