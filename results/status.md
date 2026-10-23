@@ -1,16 +1,16 @@
-# Status na 2026-10-22
+# Status na 2026-10-23
 
 Prog oplacalnosci: **28.8%** | wygrana +$75 / przegrana $-30
 
 | Okres | Trejdy | Win rate | PF | Netto | z vs prog |
 |---|---|---|---|---|---|
-| Historia (do startu) | 157 | 38.2% | 1.53 | $+1,551 | 2.60 |
-| **FORWARD** (47 dni) | 9 | 11.1% | 0.31 | $-167 | -1.17 |
+| Historia (do startu) | 152 | 38.8% | 1.57 | $+1,597 | 2.72 |
+| **FORWARD** (48 dni) | 9 | 22.2% | 0.71 | $-62 | -0.44 |
 
-Max obsuniecie (cala historia): 6.9%
+Max obsuniecie (cala historia): 6.7%
 
 ## Otwarte pozycje
-- Zloto (XAU): SHORT od 2026-10-21 11:30:00-04:00, wejscie 378.79, SL 380.62, TP 374.21
+- brak
 
 ## Werdykt
 
