@@ -1,16 +1,17 @@
-# Status na 2026-10-29
+# Status na 2026-10-30
 
 Prog oplacalnosci: **28.8%** | wygrana +$75 / przegrana $-30
 
 | Okres | Trejdy | Win rate | PF | Netto | z vs prog |
 |---|---|---|---|---|---|
 | Historia (do startu) | 152 | 38.8% | 1.57 | $+1,597 | 2.72 |
-| **FORWARD** (54 dni) | 9 | 22.2% | 0.71 | $-62 | -0.44 |
+| **FORWARD** (55 dni) | 9 | 22.2% | 0.71 | $-62 | -0.44 |
 
 Max obsuniecie (cala historia): 6.7%
 
 ## Otwarte pozycje
 - GER40 (DAX): LONG od 2026-10-28 14:30:00-04:00, wejscie 41.74, SL 41.46, TP 42.44
+- Zloto (XAU): SHORT od 2026-10-29 10:30:00-04:00, wejscie 368.6, SL 371.61, TP 361.08
 
 ## Werdykt
 
