@@ -1,13 +1,13 @@
-# Status na 2026-11-03
+# Status na 2026-11-04
 
 Prog oplacalnosci: **28.8%** | wygrana +$75 / przegrana $-30
 
 | Okres | Trejdy | Win rate | PF | Netto | z vs prog |
 |---|---|---|---|---|---|
-| Historia (do startu) | 154 | 39.0% | 1.58 | $+1,642 | 2.78 |
-| **FORWARD** (59 dni) | 11 | 27.3% | 0.93 | $-18 | -0.11 |
+| Historia (do startu) | 150 | 39.3% | 1.60 | $+1,658 | 2.85 |
+| **FORWARD** (60 dni) | 10 | 30.0% | 1.06 | $+12 | 0.08 |
 
-Max obsuniecie (cala historia): 6.7%
+Max obsuniecie (cala historia): 6.6%
 
 ## Otwarte pozycje
 - GER40 (DAX): LONG od 2026-10-28 14:30:00-04:00, wejscie 41.74, SL 41.46, TP 42.44
@@ -15,4 +15,4 @@ Max obsuniecie (cala historia): 6.7%
 
 ## Werdykt
 
-ZBIERANIE DANYCH: 11/100 trejdow. Za wczesnie na jakikolwiek wniosek.
+ZBIERANIE DANYCH: 10/100 trejdow. Za wczesnie na jakikolwiek wniosek.
