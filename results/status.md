@@ -1,11 +1,11 @@
-# Status na 2026-11-21
+# Status na 2026-11-24
 
 Prog oplacalnosci: **28.8%** | wygrana +$75 / przegrana $-30
 
 | Okres | Trejdy | Win rate | PF | Netto | z vs prog |
 |---|---|---|---|---|---|
-| Historia (do startu) | 152 | 39.5% | 1.61 | $+1,702 | 2.90 |
-| **FORWARD** (77 dni) | 14 | 28.6% | 0.99 | $-4 | -0.02 |
+| Historia (do startu) | 149 | 39.6% | 1.62 | $+1,688 | 2.91 |
+| **FORWARD** (80 dni) | 13 | 30.8% | 1.10 | $+27 | 0.16 |
 
 Max obsuniecie (cala historia): 6.6%
 
@@ -14,4 +14,4 @@ Max obsuniecie (cala historia): 6.6%
 
 ## Werdykt
 
-ZBIERANIE DANYCH: 14/100 trejdow. Za wczesnie na jakikolwiek wniosek.
+ZBIERANIE DANYCH: 13/100 trejdow. Za wczesnie na jakikolwiek wniosek.
